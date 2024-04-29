@@ -1,8 +1,7 @@
 import mysql.connector
 import re
 
-for i in range(1):
-    myPassword = "mySQL4me-preston"
+myPassword = "mySQL4me-preston"
 
 # adds account to sql database
 def add_account():
